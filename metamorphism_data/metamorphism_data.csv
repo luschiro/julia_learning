@@ -1,0 +1,149 @@
+reference,year,sample,method,geological_unit,hue_domain,T,T_error,T_min,T_max,P,P_error,P_min,P_max,age,age_error,age_intepretation,age_method,plot_Tt,plot_PT
+Munha_et_al_2005,2005,-,GOSP+GASP+(Grt+Crd+Sil+Qtz)+grid,Paraíba do Sul Complex,eastern,820,30,790,850,6.5,0.5,6,7,530,27,peak,Rb/Sr whole-rock,TRUE,TRUE
+Queiroga_et_al_2006,2006,T123A,THERMOCALC,Ribeirao da Folha Fm.,western mylonitic,534,11,523,545,4.9,0.1,4.8,5,,,peak,,,TRUE
+Queiroga_et_al_2006,2006,T191Xa,THERMOCALC,Ribeirao da Folha Fm.,western mylonitic,530,15,515,545,5.3,0.2,5.1,5.5,,,peak,,,TRUE
+Queiroga_et_al_2006,2006,Q-14,THERMOCALC,Ribeirao da Folha Fm.,western mylonitic,602,10,592,612,,,,,,,peak,,,
+,,,,,,,,,,,,,,,,,,,
+Belém_2006,2006,J23,THERMOCALC,Macaúba Gorup,eastern,705,,,,,,,,,,peak (?),,,
+Belém_2006,2006,J16,grt-bt thermometer - TWEEQU,Suite G2(?),eastern,860,,,,,,,,,,peak (?),,,
+Belém_2006,2006,J21,grt-bt thermometer - TWEEQU,Jequitinhonha Complex,eastern,630,,,,,,,,,,peak (?),,,
+Belém_2006,2006,J4,THERMOCALC,Jequitinhonha Complex,eastern,791,42,749,833,4.98,0.45,4.53,5.43,,,peak (?),,,TRUE
+Belém_2006,2006,J13B,THERMOCALC,Jequitinhonha Complex,eastern,800,47,753,847,5.2,0.48,4.72,5.68,,,peak (?),,,TRUE
+Belém_2006,2006,J10,grt-bt thermometer - TWEEQU,Jequitinhonha Complex,eastern,850,,,,,,,,,,peak (?),,,
+Belém_2006,2006,J24,THERMOCALC,Jequitinhonha Complex,eastern,831,42,789,873,5.94,0.47,5.47,6.41,,,decompression,,,TRUE
+Belém_2006,2006,J25,THERMOCALC,Jequitinhonha Complex,eastern,841,46,795,887,6.56,0.52,6.04,7.08,,,peak (?),,,TRUE
+Belém_2006,2006,J26,THERMOCALC,Jequitinhonha Complex,eastern,917,52,865,969,7.35,0.61,6.74,7.96,,,peak (?),,,TRUE
+Belém_2006,2006,J27,THERMOCALC,Jequitinhonha Complex,eastern,893,52,841,945,6.66,0.56,6.1,7.22,,,peak (?),,,TRUE
+Belém_2006,2006,J28,THERMOCALC,Jequitinhonha Complex,eastern,824,46,778,870,5.38,0.49,4.89,5.87,,,decompression,,,TRUE
+,,,,,,,,,,,,,,,,,,,
+Petitgirard_et_al_2009,2009,Ar-83,Fe-Mg (Bt-Grt)+GASP/Grt-Pl-Bt-Qtz,Mylonitic Unit,western mylonitic,760,30,730,790,6,2,4,8,,,retrogressive,,,TRUE
+Petitgirard_et_al_2009,2009,Ar-83,Fe-Mg (Bt-Grt),Mylonitic Unit,western mylonitic,700,30,670,730,6,2,4,8,,,retrogressive,,,TRUE
+Petitgirard_et_al_2009,2009,AR-86,Fe-Mg (Bt-Grt)+GASP -rim,Mylonitic Unit,western mylonitic,730,30,700,760,6,1.7,4.3,7.7,,,retrogressive,,,TRUE
+Petitgirard_et_al_2009,2009,AR-86,Fe-Mg (Bt-Grt) - core/bt,Mylonitic Unit,western mylonitic,780,30,750,810,6,1.7,4.3,7.7,,,retrogressive,,,TRUE
+Petitgirard_et_al_2009,2009,AR-261,Fe-Mg (Bt-Grt)+GASP - rim,Mylonitic Unit,western mylonitic,730,20,710,750,5,1.5,4.5,6.5,,,retrogressive,,,TRUE
+Petitgirard_et_al_2009,2009,AR-261,Fe-Mg (Bt-Grt) - core/bt,Mylonitic Unit,western mylonitic,770,30,740,800,5,1.5,4.5,6.5,,,retrogressive,,,TRUE
+,,,,,,,,,,,,,,,,,,,
+Pedrosa_et_al_2011,2011,G2-48,THERMOCALC,Suite G2 - CC,eastern,683,,,,,,,,575,,recrystallization,,,
+Pedrosa_et_al_2011,2011,G2-50,THERMOCALC,Suite G2 - CC,eastern,666,,,,,,,,575,,recrystallization,,,
+Pedrosa_et_al_2011,2011,G2-54,THERMOCALC,Suite G2 - CC,eastern,642,,,,,,,,575,,recrystallization,,,
+Pedrosa_et_al_2011,2011,G3-55B,THERMOCALC,Suite G3 - mica free non foliated NV,nvc,814,,,,,,,,532,11,recrystallization,,,
+Pedrosa_et_al_2011,2011,G3-55C,THERMOCALC,Suite G3 - mica free non foliated NV,nvc,819,,,,,,,,532,11,recrystallization,,,
+,,,,,,,,,,,,,,,,,,,
+Gradim_2013,2013,TV-37,TWQ,Nova Venecia Complex,nvc,712,32,680,744,5.4,0.5,4.9,5.9,,,peak,,,TRUE
+Gradim_2013,2013,TV-37,THERMOCALC,Nova Venecia Complex,nvc,770,30,740,800,5,0.5,4.5,5.5,,,peak,,,TRUE
+Gradim_2013,2013,TV-52,TWQ,Nova Venecia Complex,nvc,855,113,742,968,5.2,0.7,4.5,5.9,,,peak,,,TRUE
+Gradim_2013,2013,TV-52,THERMOCALC,Nova Venecia Complex,nvc,840,60,780,900,5.6,0.9,4.7,6.5,,,peak,,,TRUE
+Gradim_2013,2013,WC-11,TWQ,Nova Venecia Complex,nvc,930,118,813,1048,6.1,0.4,5.7,6.5,,,peak,,,TRUE
+,,,,,,,,,,,,,,,,,,,
+Cavalcante_et_al_2014,2014,AR-1258,TitaniQ - Ti-in-Quartz,Carlos Chagas,eastern,747,15,,,6.5,0.5,600,700,,,quartz crystallization,,TRUE,TRUE
+Cavalcante_et_al_2014,2014,AR-1299,TitaniQ - Ti-in-Quartz,Carlos Chagas,eastern,780,16,,,6.5,0.5,600,700,,,quartz crystallization,,TRUE,TRUE
+Cavalcante_et_al_2014,2014,AR-1326,TitaniQ - Ti-in-Quartz,Carlos Chagas,eastern,792,17,,,6.5,0.5,600,700,,,quartz crystallization,,TRUE,TRUE
+Cavalcante_et_al_2014,2014,AR-1296,TitaniQ - Ti-in-Quartz,Carlos Chagas,eastern,755,16,,,6.5,0.5,600,700,,,quartz crystallization,,TRUE,TRUE
+Cavalcante_et_al_2014,2014,AR-949,TitaniQ - Ti-in-Quartz,Carlos Chagas,eastern,794,17,,,6.5,0.5,600,700,,,quartz crystallization,,TRUE,TRUE
+Cavalcante_et_al_2014,2014,AR-1083,TitaniQ - Ti-in-Quartz,Carlos Chagas,eastern,787,17,,,6.5,0.5,600,700,,,quartz crystallization,,TRUE,TRUE
+,,,,,,,,,,,,,,,,,,,
+Moraes_et_al_2015,2015,RF-1,THERMOCALC,Jequitinhonha Complex,eastern,850,31,819,881,6.5,0.5,6,7,,,peak,,,
+Moraes_et_al_2015,2015,RF-1,avPT,Jequitinhonha Complex,eastern,855,55,800,910,6.6,0.8,5.8,7.4,,,peak,,,
+Moraes_et_al_2015,2015,RF-6,THERMOCALC,Jequitinhonha Complex,eastern,837,29,808,866,6.6,0.5,6.1,7.1,,,peak,,,
+Moraes_et_al_2015,2015,RF-6,avPT,Jequitinhonha Complex,eastern,856,58,798,914,6.8,0.9,5.9,7.7,,,peak,,,
+Moraes_et_al_2015,2015,RF-24,THERMOCALC,Jequitinhonha Complex,eastern,881,29,852,910,6.7,0.5,6.2,7.2,,,peak,,,
+Moraes_et_al_2015,2015,RF-24,avPT,Jequitinhonha Complex,eastern,904,59,845,963,7.4,0.8,6.6,8.2,,,peak,,,
+Moraes_et_al_2015,2015,RF-16,THERMOCALC,Jequitinhonha Complex,eastern,1046,63,983,1109,6.7,1.13,5.57,7.83,,,peak,,,
+Moraes_et_al_2015,2015,RF-16,avPT,Jequitinhonha Complex,eastern,1094,84,1010,1178,9.4,1.8,7.6,11.2,,,peak,,,
+Moraes_et_al_2015,2015,RF-16,THERMOCALC,Jequitinhonha Complex,eastern,920,49,871,969,6.7,1.3,5.4,8,,,peak,,,
+Moraes_et_al_2015,2015,RF-16,THERMOCALC,Jequitinhonha Complex,eastern,858,48,810,906,6.8,1.1,5.7,7.9,,,peak,,,
+Moraes_et_al_2015,2015,RF-16b,THERMOCALC,Jequitinhonha Complex,eastern,1037,63,974,1100,6.8,1.1,5.7,7.9,,,peak,,,
+Moraes_et_al_2015,2015,RF-16b,THERMOCALC,Jequitinhonha Complex,eastern,925,48,877,973,6.7,1.3,5.4,8,,,peak,,,
+Moraes_et_al_2015,2015,RF-16b,THERMOCALC,Jequitinhonha Complex,eastern,851,43,808,894,6.8,1.1,5.7,7.9,,,peak,,,
+Moraes_et_al_2015,2015,RF-3,THERMOCALC,Jequitinhonha Complex,eastern,895,46,849,941,7,1.2,5.8,8.2,,,peak,,,
+Moraes_et_al_2015,2015,RF-3,THERMOCALC,Jequitinhonha Complex,eastern,808,45,763,853,7.1,1.2,5.9,8.3,,,peak,,,
+Moraes_et_al_2015,2015,RF-3,avPT,Jequitinhonha Complex,eastern,768,45,723,813,5.8,1.2,4.6,7,,,peak,,,
+,,,,,,,,,,,,,,,,,,,
+Ritcher_et_al_2016,2016,BGCM-101,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,785,30,755,815,7.5,1.5,5.9,> 9,561,5,peak,,TRUE,TRUE
+Ritcher_et_al_2016,2016,BGCM-101,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,743,23,720,766,5.5,0.4,5.1,5.9,499,4,stable,,TRUE,TRUE
+Ritcher_et_al_2016,2016,BGOM-7A1B,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,831,21,810,852,7.1,1.9,5.3,> 9,570,4,peak,,TRUE,TRUE
+Ritcher_et_al_2016,2016,BGOM-7A1B,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,715,85,630,800,4.7,0.4,4.3,5.2,495,3,stable,,TRUE,TRUE
+Ritcher_et_al_2016,2016,CG-3A1,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,887,112,775,> 1000,6.9,0.65,6.25,7.5,565,5,peak,,TRUE,TRUE
+Ritcher_et_al_2016,2016,CG-3A1,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,685,35,650,720,4.9,0.65,4.25,5.56,,,stable,,,TRUE
+,,,,,,,,,,,,,,,,,,,
+Queiroga_et_al_2016,2016,CM01A,avPT,Capelinha Fm. (upper),western mylonitic,530,23,507,553,6.2,0.9,5.3,7.1,,,peak,,,
+Queiroga_et_al_2016,2016,CM01A,bt+grt/GASP,Capelinha Fm. (upper),western mylonitic,508,,,,8.03,,,,,,peak,,,
+Queiroga_et_al_2016,2016,CM01A,avPT,Capelinha Fm. (upper),western mylonitic,627,57,570,684,4.4,1.5,2.9,5.9,,,peak,,,
+Queiroga_et_al_2016,2016,CM01A,bt+grt/GASP,Capelinha Fm. (upper),western mylonitic,560,,,,6.32,,,,,,peak,,,
+Queiroga_et_al_2016,2016,CP12A,avPT,Capelinha Fm. (upper),western mylonitic,501,22,479,523,5.6,0.8,4.8,6.4,,,peak,,,
+Queiroga_et_al_2016,2016,CP12A,bt+grt/GASP,Capelinha Fm. (upper),western mylonitic,466,,,,7.74,,,,,,peak,,,
+Queiroga_et_al_2016,2016,CP12A,avPT,Capelinha Fm. (upper),western mylonitic,,,,,,,,,,,peak,,,
+Queiroga_et_al_2016,2016,CP12A,bt+grt/GASP,Capelinha Fm. (upper),western mylonitic,568,,,,5.57,,,,,,peak,,,
+Queiroga_et_al_2016,2016,CP52B,avPT,Capelinha Fm. (upper),western mylonitic,530,25,505,555,6.7,0.8,5.9,7.5,,,peak,,,
+Queiroga_et_al_2016,2016,CP52B,bt+grt/GASP,Capelinha Fm. (upper),western mylonitic,514,,,,7.78,,,,,,peak,,,
+Queiroga_et_al_2016,2016,CP52B,avPT,Capelinha Fm. (upper),western mylonitic,580,60,520,640,5.4,1.3,4.1,6.7,,,peak,,,
+Queiroga_et_al_2016,2016,CP52B,bt+grt/GASP,Capelinha Fm. (upper),western mylonitic,570,,,,7.32,,,,,,peak,,,
+,,,,,,,,,,,,,,,,,,,
+Narduzzi_et_al_2017,2017,,,,central domain,,,,,,,,,,,,,,
+Narduzzi_et_al_2017,2017,,,,central domain,,,,,,,,,,,,,,
+Narduzzi_et_al_2017,2017,,,,central domain,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Degler_et_al_2017,2017,RC-03,Geothermobarometry (Grt-Bt-Pl),Andrelandia Group,western mylonitic,,,640,733,5.12,0.9,4.22,6.02,618,,retrogressive,,,
+Degler_et_al_2017,2017,RC-34,Geothermobarometry (Grt-Bt-Pl),Andrelandia Group,western mylonitic,,,625,658,5.57,0.94,4.63,6.51,620,,retrogressive,,,
+Degler_et_al_2017,2017,RC-38,Geothermobarometry (Grt-Bt-Pl),Andrelandia Group,western mylonitic,,,646,680,5.6,0.83,4.77,6.43,618,,retrogressive,,,
+Degler_et_al_2017,2017,RC-46,Geothermobarometry (Grt-Bt-Pl),Andrelandia Group,western mylonitic,,,614,655,5.27,0.4,4.87,5.67,610,,retrogressive,,,
+,,,,,,,,,,,,,,,,,,,
+Peixoto_et_al_2017,2017,314,Pseudosections - THERIAK-DOMINO,Nova Aurora Fm.,western mylonitic,565,5,560,570,4.85,0.15,4.7,5,,,M. Domain I - Barrovian,,,
+Peixoto_et_al_2017,2017,214,Pseudosections - THERIAK-DOMINO,Chapada Acauão Fm.,western mylonitic,630,6,624,636,8,,,,568,27,M. Domain I - Barrovian,,TRUE,
+Peixoto_et_al_2017,2017,216,Pseudosections - THERIAK-DOMINO,Salinas Fm.,western mylonitic,640,6,634,646,8,0.2,8,8.4,566,11,M. Domain I - Barrovian,,TRUE,
+Peixoto_et_al_2017,2017,10,Pseudosections - THERIAK-DOMINO,Salinas Fm.,western mylonitic,530,5,525,535,3,,,,,,M.Domain II - LP Isobaric,,,
+Peixoto_et_al_2017,2017,200,Pseudosections - THERIAK-DOMINO,Salinas Fm.,western mylonitic,585,15,570,600,5,0.5,4.5,5.5,551,27,M.Domain II - LP Isobaric,,TRUE,
+Peixoto_et_al_2017,2017,146,Pseudosections - THERIAK-DOMINO,Salinas Fm.,western mylonitic,640,10,630,650,3.6,,,,569,6,M.Domain II - LP Isobaric,,TRUE,
+,,,,,,,,,,,,,,,,,,,
+Melo_et_al_2017a,2017,CC28,Pseudosections - THERIAK-DOMINO,Carlos Chagas Batholith,eastern,805,15,790,820,,,9.5,10.5,,,M1,,,
+Melo_et_al_2017a,2017,CC31,Pseudosections - THERIAK-DOMINO,Carlos Chagas Batholith,eastern,810,10,800,820,,,10,11,560,9,M1,,TRUE,
+Melo_et_al_2017a,2017,CC31,Pseudosections - THERIAK-DOMINO,Carlos Chagas Batholith,eastern,,,,,,,,,528,5,M2,,,
+Melo_et_al_2017a,2017,CC37,Pseudosections - THERIAK-DOMINO,Carlos Chagas Batholith,eastern,,,,,,,,,562,5,M1,,,
+Melo_et_al_2017a,2017,CC37,Pseudosections - THERIAK-DOMINO,Carlos Chagas Batholith,eastern,763,8,755,770,,,4.8,9,530,4,M2,,TRUE,
+,,,,,,,,,,,,,,,,,,,
+Melo_et_al_2017b,2017,compilation,Ti-in-zircon,Carlos Chagas Batholith,eastern,823,23,800,846,,,,,,,inherited,,,
+Melo_et_al_2017b,2017,compilation,Ti-in-zircon,Carlos Chagas Batholith,eastern,785,14,771,799,,,,,,,magmatic,,,
+Melo_et_al_2017b,2017,compilation,Ti-in-zircon,Carlos Chagas Batholith,eastern,788,33,755,821,,,,,,,anatetic 1,,,
+Melo_et_al_2017b,2017,compilation,Ti-in-zircon,Carlos Chagas Batholith,eastern,794,31,763,825,,,,,,,anatetic 2/metamorphic,,,
+,,,,,,,,,,,,,,,,,,,
+Cavalcante_et_al_2018,2018,AR535,Ti-in-zircon,Carlos Chagas,eastern,744,77,667,820,,,,,576,6,zircon crystallization wave,,TRUE,
+Cavalcante_et_al_2018,2018,AR664,Ti-in-zircon,Carlos Chagas,eastern,714,56,658,769,,,,,589,6,zircon crystallization wave,,TRUE,
+Cavalcante_et_al_2018,2018,AR1133,Ti-in-zircon,Carlos Chagas,eastern,733,36,697,768,,,,,599,6,zircon crystallization wave,,TRUE,
+Cavalcante_et_al_2018,2018,AR1145,Ti-in-zircon,Carlos Chagas,eastern,721,35,686,755,,,,,594,6,zircon crystallization wave,,TRUE,
+Cavalcante_et_al_2018,2018,AR1349,Ti-in-zircon,Carlos Chagas,eastern,718,29,689,746,,,,,583,9,zircon crystallization wave,,TRUE,
+Cavalcante_et_al_2018,2018,AR1370,Ti-in-zircon,Carlos Chagas,eastern,730,43,687,773,,,,,579,8,zircon crystallization wave,,TRUE,
+Cavalcante_et_al_2018,2018,AR1369,Ti-in-zircon,Carlos Chagas,eastern,727,32,695,758,,,,,,,zircon crystallization wave,,,
+Cavalcante_et_al_2018,2018,AR1349,Zr-in-rutile,Carlos Chagas,eastern,783,38,745,820,,,,,583,9,,,TRUE,
+,,,,,,,,,,,,,,,,,,,
+Vauchez_et_al_2019,2019,AR-562,amp closure,,western mylonitic,488,7,481,495,,,,,501,5,amp closure - cooling,Ar/Ar amp,TRUE,
+Vauchez_et_al_2019,2019,AR-414,amp closure,,western mylonitic,470,12,458,481,,,,,505,5,amp closure - cooling,Ar/Ar amp,TRUE,
+Vauchez_et_al_2019,2019,AR-590,amp closure,,western mylonitic,513,8,505,520,,,,,549,6,amp closure - cooling,Ar/Ar amp,,
+Vauchez_et_al_2019,2019,AR-1057,amp closure,,western mylonitic,517,4,513,520,,,,,542,8,amp closure - cooling,Ar/Ar amp,,
+Vauchez_et_al_2019,2019,AR-1009,amp closure,,central domain,526,6,520,531,,,,,501,9,amp closure - cooling,Ar/Ar amp,TRUE,
+Vauchez_et_al_2019,2019,AR-717,amp closure,,central domain,517,4,513,520,,,,,500,5,amp closure - cooling,Ar/Ar amp,TRUE,
+Vauchez_et_al_2019,2019,AR-648,ms closure,,central domain,418,10,408,428,,,,,488,5,bt closure - cooling,Ar/Ar bt,TRUE,
+,,,,,,,,,,,,,,,,,,,
+Araujo_et_al_2020,2020,CA-05,Zircon saturation,Mestre Alvaro Pluton,eastern,834,42,,,,,,,527,2,pluton emplacement,U-Pb zr,TRUE,
+Araujo_et_al_2020,2020,CA-02,Zircon saturation,Vitoria Pluton,eastern,860,43,,,,,,,523,2,pluton emplacement,U-Pb zr,TRUE,
+Araujo_et_al_2020,2020,CA-04,Zircon saturation,Aracê - Pedra Azul Granite,eastern,923,46,,,,,,,505,1,pluton emplacement,U-Pb zr,TRUE,
+,,,,,,,,,,,,,,,,,,,
+Schannor_et_al_2021,2021,POC3B,Pseudosections - perple_x,Central Domain,central domain,550,10,540,560,,,6.5,8.5,569,16,,U/Pb grt,TRUE,
+Schannor_et_al_2021,2021,POC28,Pseudosections - perple_x,Central Domain,central domain,590,30,560,620,,,7,9,576,19,,U/Pb grt,TRUE,
+Schannor_et_al_2021,2021,MFC16A,Pseudosections - perple_x,Central Domain,central domain,603,23,580,625,,,5.5,7,564,10,,U/Pb grt,TRUE,
+Schannor_et_al_2021,2021,MFC16B,Pseudosections - perple_x,Central Domain,central domain,610,10,600,620,,,6,7.5,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Wisnowski_et_al_2020,2020,2.5,RCLC,Nova Venecia Complex,nvc,904,3,901,907,,,7.3,7.7,523,7,peak contact metamorphism,SHRIMP,,TRUE
+Wisnowski_et_al_2020,2020,2.6,avPT,Nova Venecia Complex,nvc,878,78,,,7.1,1.4,,,523,7,peak contact metamorphism,SHRIMP,,TRUE
+Wisnowski_et_al_2020,2020,2.6,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,990,20,970,1010,,,5.6,6.0,523,7,peak contact metamorphism,SHRIMP,TRUE,TRUE
+Wisnowski_et_al_2020,2020,2.11,RCLC,Nova Venecia Complex,nvc,885,12,873,898,,,7.1,7.3,,,,,,TRUE
+Wisnowski_et_al_2020,2020,2.15,avPT,Nova Venecia Complex,nvc,754,34,,,6.1,1.1,,,,,,,,TRUE
+Wisnowski_et_al_2020,2020,2.16,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,nvc,845,9,,,,,6,6.7,523,7,high-T recrystallization,SHRIMP,TRUE,TRUE
+Wisnowski_et_al_2020,2020,2.20,avPT,Nova Venecia Complex,nvc,732,36,,,5.8,1.1,,,,,,,,TRUE
+,,,,,,,,,,,,,,,,,,,
+Schiavetti_et_al_2024,2024,01B - map,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,this study,810,10,800,820,,,7,10,528,2,peak Temperature threshold,Lu-Hf garnet,TRUE,
+Schiavetti_et_al_2024,2024,01b - texture,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,this study,800,10,810,790,,,4.5,6,513,5,isobaric cooling,U-Pb zr,TRUE,
+Schiavetti_et_al_2024,2024,02B - texture,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,this study,705,5,700,710,5,0.5,4.5,5.5,513,5,isobaric cooling,U-Pb zr,TRUE,
+Schiavetti_et_al_2024,2024,03R1 - granulite,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,this study,860,50,810,910,5.5,0.5,5,6,523,7,,U-Pb zr,TRUE,
+Schiavetti_et_al_2024,2024,03R1 - atoll,Pseudosections - THERIAK-DOMINO,Nova Venecia Complex,this study,1010,60,950,1070,6,2,4,8,,,,,TRUE,
+Schiavetti_et_al_2024,2024,02B,RCLC,Nova Venecia Complex,this study,843,17,826,860,6,0.2,5.8,6.2,,,,,TRUE,
+Schiavetti_et_al_2024,2024,03R1,RCLC,Nova Venecia Complex,this study,884,26,858,911,,,6,7.2,,,,,TRUE,
