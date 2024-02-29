@@ -1,12 +1,12 @@
 ### VARIABLES ###
 println("\n---- VARIABLES ----")
 # definição de variáveis
-name = "Lucas"
-age = 35
+name = "John"
+age = 39
 println(name, " age is ", age)
 
 # com assertion operator (precisa ter atribuição de valor)
-cpf::String = "368.933"
+cpf::String = "999.888"
 println("cpf: ", cpf)
 println(typeof(cpf))
 print('\n')
@@ -94,9 +94,7 @@ end
 test_integer(1)
 
 
-### MULTIPLE DSPATCH ###
-println(("\n---- Multiple Dispatch ----"))
-
+# mutiple dispatch
 struct Game
   title::String
   year_release::Int64
@@ -106,3 +104,63 @@ Base.show(io::IO, g::Game) = println("The game ", g.title, " was realeased in ",
 red_dead = Game("Red Dead Redemption", 2014)
 show(red_dead)
 show(gabs)
+
+red_dead # show is evoked when using only the name of the "objetc"
+
+# multiple return
+println("\n\n---- Back to Functions ----")
+function add_multi(a, b)
+  sum = a + b
+  mul = a * b
+  return sum, mul
+end
+
+res = add_multi(10,2)
+println("Returns: ", res, "\nType: ", typeof(res))
+
+function new_function(rock::String)
+  return rock * " is a type of rock!"
+end
+new_function("granite")
+
+typeof((10, 5))
+
+# keyword arguments
+function calc(x; d::Int64=10)
+  return x * d
+end
+println(calc(10))
+println(calc(5;d=5))
+
+# anonymous Functions
+println(typeof(x -> 2x))
+map(x -> 2x, [1, 2, 5, 10])
+
+
+# functions + if-elif-else + loop
+function loop_if(a)
+  count = 0
+  while count <= a
+    if count % 2 == 0
+      println(count, " é par")
+    elseif count < 5
+      println(count, " é ímpar e menor que cinco")
+    else
+      println(count, " é ímpar e maior ou igual a 5")
+    end
+    count+=1
+  end      
+end
+
+loop_if(10)
+
+# for
+for i in [8,10]
+  println("for - ", i)
+end
+
+# vectorization (broadcastin with dot .)
+calc.([1, 2])
+
+(x -> x*3).([3, 4])
+(y -> y + 2).([1, 2])
