@@ -158,9 +158,3 @@ loop_if(10)
 for i in [8,10]
   println("for - ", i)
 end
-
-# vectorization (broadcastin with dot .)
-calc.([1, 2])
-
-(x -> x*3).([3, 4])
-(y -> y + 2).([1, 2])
