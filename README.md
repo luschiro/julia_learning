@@ -1,6 +1,6 @@
 # About
 
-Repo dedicated to Julia learning with geology cases.
+Repo dedicated to Julia learning with geology cases. Getting back
 
 **Modules**:
 
